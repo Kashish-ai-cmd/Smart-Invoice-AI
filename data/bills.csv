@@ -1,0 +1,9 @@
+Date,Invoice No,Vendor Name,GSTIN,Phone,Items Detail,Tax,Amount,Type,Category,Payment Status
+2026-06-01,INV-1001,SMART AI SOLUTIONS PVT LTD,09AABCS1234F1Z1,+91-9876500001,"Premium Cotton Thaan, Silk Rolls",60000.0,1260000.0,Income,Textile Wholesale & Manufacturing,Pending 🔴
+2026-06-05,INV-1002,SMART AI SOLUTIONS PVT LTD,09AABCS1234F1Z1,+91-9876500001,"Software Development Job Work, Cloud Server Setup",18000.0,118000.0,Income,IT & Software,Pending 🔴
+2026-06-10,INV-1003,SMART AI SOLUTIONS PVT LTD,09AABCS1234F1Z1,+91-9876500001,"PVC Pipes, Water Tanks",4500.0,45500.0,Income,IT & Software,Pending 🔴
+2026-06-02,CR-887,CROMA ELECTRONICS,27ABCD1112E2Z2,1800-22-3344,"Dell XPS Developer Laptop, Wireless Mouse",12500.0,85000.0,Expense,Electronics & IT Assets,Pending 🔴
+2026-06-07,KM-009,LOCAL KIRANA MART,Unregistered,+91-9988776655,"Tea, Coffee, Snacks, Biscuits & Cold Drinks bulk",0.0,65000.0,Expense,Office Pantry,Pending 🔴
+2026-06-08,ST-441,CLASSMATE DEPOT,07XYZC8888D1Z5,+91-7766554433,"A4 Paper Rims, Premium Parker Pens",1500.0,18500.0,Expense,Stationery & Printing,Pending 🔴
+2026-06-12,FL-909,MAKEMYTRIP,06MMTS9999F1Z9,1800-11-2233,Round Trip Flight Ticket - Delhi to Mumbai,850.0,12500.0,Expense,Textile Wholesale & Manufacturing,Pending 🔴
+2026-06-15,EB-121,UPPCL ELECTRICITY BOARD,09UPPCL1111E1Z1,1912,Commercial Power Bill - May 2026,0.0,45000.0,Expense,Utility Bills,Pending 🔴
